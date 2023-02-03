@@ -1,0 +1,24 @@
+/*******************************
+Herança e especificidade */
+/*body {
+    color: purple;
+    border: solid 0.063rem gray;
+}*/
+/*******************************************/
+/*******************************************
+p {
+    color:purple;
+}
+
+p {
+    color:blanchedalmond;
+}
+*/
+
+* {
+    color: purple;
+}
+
+h2 {
+    color: aqua;
+}
