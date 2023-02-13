@@ -25,9 +25,11 @@ ul a {
     text-decoration: none;
     text-indent: 2.5rem;
     line-height: 2.5rem;
-    background: url(../A03/images/menu.png) no-repeat left bottom;
+    background: #f7b600 url(../A04/images/menu.png) no-repeat left bottom;
 }
 
-a:hover {
+a:hover, .selecionado a {
     background-position: right bottom;
+    background-color: #f99200;
+    color: #fff;
 }
